@@ -1,0 +1,13 @@
+github.com/go-sql-driver/mysql v1.5.0 h1:ozyZYNQW3x3HtqT1jira07DN2PArx2v7/mN66gGcHOs=
+github.com/go-sql-driver/mysql v1.5.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/oleg578/loglog v0.0.0-20210204094513-0f9bce2a36d7 h1:ymhkDYuC4xoqA8zr5Us7045ZYPUkp5wBuPXnvnAMPfk=
+github.com/oleg578/loglog v0.0.0-20210204094513-0f9bce2a36d7/go.mod h1:GOBRZCj7gY0pn1TGhKLYYhmJbQUP3RHN6NPMSIkwHCw=
+github.com/oleg578/mysqlpool v0.0.0-20210511100445-56acb6f03d69 h1:VjS8SnJPl/stLCqA+9qgAcskzWbKm7GqOtNE100VxZA=
+github.com/oleg578/mysqlpool v0.0.0-20210511100445-56acb6f03d69/go.mod h1:2NVOPtFQCfihN9l/3kHS4HrLYR0aLSFli9vDf6mBnmY=
+golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 h1:HWj/xjIHfjYU5nVXpTM0s39J9CbLn7Cc5a7IC5rwsMQ=
+golang.org/x/crypto v0.0.0-20210817164053-32db794688a5/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
+golang.org/x/net v0.0.0-20210908191846-a5e095526f91 h1:E8wdt+zBjoxD3MA65wEc3pl25BsTi7tbkpwc4ANThjc=
+golang.org/x/net v0.0.0-20210908191846-a5e095526f91/go.mod h1:9nx3DQGgdP8bBQD5qxJ1jj9UTztislL4KSBs9R2vV5Y=
+golang.org/x/text v0.3.6 h1:aRYxNxv6iGQlyVaZmk6ZgYEDa+Jg18DxebPSrd6bg1M=
+golang.org/x/text v0.3.6/go.mod h1:5Zoc/QRtKVWzQhOtBMvqHzDpF6irO9z98xDceosuGiQ=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
